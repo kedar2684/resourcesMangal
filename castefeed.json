@@ -1,0 +1,2400 @@
+{
+   "1":[
+      {
+         "VALUE":"581",
+         "LABEL":"24 Manai Telugu Chettiar"
+      },
+      {
+         "VALUE":"613",
+         "LABEL":"96K Kokanastha"
+      },
+      {
+         "VALUE":"278",
+         "LABEL":"Ad Dharmi"
+      },
+      {
+         "VALUE":"407",
+         "LABEL":"Adi Andhra"
+      },
+      {
+         "VALUE":"16",
+         "LABEL":"Adi Dravida"
+      },
+      {
+         "VALUE":"408",
+         "LABEL":"Adi Karnataka"
+      },
+      {
+         "VALUE":"409",
+         "LABEL":"Agamudayar"
+      },
+      {
+         "VALUE":"17",
+         "LABEL":"Aggarwal"
+      },
+      {
+         "VALUE":"485",
+         "LABEL":"Aggarwal- All"
+      },
+      {
+         "VALUE":"168",
+         "LABEL":"Agri"
+      },
+      {
+         "VALUE":"410",
+         "LABEL":"Ahir"
+      },
+      {
+         "VALUE":"279",
+         "LABEL":"Ahom"
+      },
+      {
+         "VALUE":"182",
+         "LABEL":"Ambalavasi"
+      },
+      {
+         "VALUE":"582",
+         "LABEL":"Amma Kodava"
+      },
+      {
+         "VALUE":"583",
+         "LABEL":"Arakh Arakvanshiya"
+      },
+      {
+         "VALUE":"584",
+         "LABEL":"Arekatica"
+      },
+      {
+         "VALUE":"18",
+         "LABEL":"Arora"
+      },
+      {
+         "VALUE":"183",
+         "LABEL":"Arunthathiyar"
+      },
+      {
+         "VALUE":"19",
+         "LABEL":"Arya Vysya"
+      },
+      {
+         "VALUE":"487",
+         "LABEL":"Arya Vysya- All"
+      },
+      {
+         "VALUE":"585",
+         "LABEL":"Ayyaraka"
+      },
+      {
+         "VALUE":"586",
+         "LABEL":"Badaga"
+      },
+      {
+         "VALUE":"559",
+         "LABEL":"Badhai"
+      },
+      {
+         "VALUE":"587",
+         "LABEL":"Bagdi"
+      },
+      {
+         "VALUE":"227",
+         "LABEL":"Baghel Gaderiya"
+      },
+      {
+         "VALUE":"614",
+         "LABEL":"Bahi"
+      },
+      {
+         "VALUE":"252",
+         "LABEL":"Baidya"
+      },
+      {
+         "VALUE":"281",
+         "LABEL":"Baishnab"
+      },
+      {
+         "VALUE":"282",
+         "LABEL":"Baishya"
+      },
+      {
+         "VALUE":"648",
+         "LABEL":"Baishya Kapali"
+      },
+      {
+         "VALUE":"588",
+         "LABEL":"Bajantri"
+      },
+      {
+         "VALUE":"283",
+         "LABEL":"Balija"
+      },
+      {
+         "VALUE":"21",
+         "LABEL":"Balija Naidu"
+      },
+      {
+         "VALUE":"576",
+         "LABEL":"Banayat Oriya"
+      },
+      {
+         "VALUE":"20",
+         "LABEL":"Bania- All"
+      },
+      {
+         "VALUE":"499",
+         "LABEL":"Bania"
+      },
+      {
+         "VALUE":"284",
+         "LABEL":"Banik"
+      },
+      {
+         "VALUE":"491",
+         "LABEL":"Banik- All"
+      },
+      {
+         "VALUE":"411",
+         "LABEL":"Banjara"
+      },
+      {
+         "VALUE":"589",
+         "LABEL":"Barai"
+      },
+      {
+         "VALUE":"229",
+         "LABEL":"Bari"
+      },
+      {
+         "VALUE":"590",
+         "LABEL":"Baria"
+      },
+      {
+         "VALUE":"285",
+         "LABEL":"Barujibi"
+      },
+      {
+         "VALUE":"569",
+         "LABEL":"Beldar"
+      },
+      {
+         "VALUE":"286",
+         "LABEL":"Besta"
+      },
+      {
+         "VALUE":"574",
+         "LABEL":"Bhajantri"
+      },
+      {
+         "VALUE":"22",
+         "LABEL":"Bhandari"
+      },
+      {
+         "VALUE":"231",
+         "LABEL":"Bhatia"
+      },
+      {
+         "VALUE":"412",
+         "LABEL":"Bhatraju"
+      },
+      {
+         "VALUE":"287",
+         "LABEL":"Bhavsar"
+      },
+      {
+         "VALUE":"288",
+         "LABEL":"Bhovi \/ Bhoi"
+      },
+      {
+         "VALUE":"637",
+         "LABEL":"Bhoyar"
+      },
+      {
+         "VALUE":"591",
+         "LABEL":"Bhulia \/ Meher"
+      },
+      {
+         "VALUE":"24",
+         "LABEL":"Billava"
+      },
+      {
+         "VALUE":"512",
+         "LABEL":"Bisa Agarwal"
+      },
+      {
+         "VALUE":"413",
+         "LABEL":"Bishnoi \/ Vishnoi"
+      },
+      {
+         "VALUE":"592",
+         "LABEL":"Bondili"
+      },
+      {
+         "VALUE":"184",
+         "LABEL":"Boyer"
+      },
+      {
+         "VALUE":"593",
+         "LABEL":"Brahmakshatriya"
+      },
+      {
+         "VALUE":"289",
+         "LABEL":"Brahmbatt"
+      },
+      {
+         "VALUE":"25",
+         "LABEL":"Brahmin- All"
+      },
+      {
+         "VALUE":"500",
+         "LABEL":"Brahmin"
+      },
+      {
+         "VALUE":"26",
+         "LABEL":"Brahmin 6000 Niyogi"
+      },
+      {
+         "VALUE":"27",
+         "LABEL":"Brahmin Anavil"
+      },
+      {
+         "VALUE":"478",
+         "LABEL":"Brahmin Andhra- All"
+      },
+      {
+         "VALUE":"234",
+         "LABEL":"Brahmin Audichya"
+      },
+      {
+         "VALUE":"414",
+         "LABEL":"Brahmin Bajkhedwal"
+      },
+      {
+         "VALUE":"513",
+         "LABEL":"Brahmin Bardai"
+      },
+      {
+         "VALUE":"290",
+         "LABEL":"Brahmin Barendra"
+      },
+      {
+         "VALUE":"482",
+         "LABEL":"Brahmin Bengali- All"
+      },
+      {
+         "VALUE":"415",
+         "LABEL":"Brahmin Bhargava"
+      },
+      {
+         "VALUE":"291",
+         "LABEL":"Brahmin Bhatt"
+      },
+      {
+         "VALUE":"28",
+         "LABEL":"Brahmin Bhumihar"
+      },
+      {
+         "VALUE":"416",
+         "LABEL":"Brahmin Brahacharanam"
+      },
+      {
+         "VALUE":"514",
+         "LABEL":"Brahmin BrahmBhatt"
+      },
+      {
+         "VALUE":"515",
+         "LABEL":"Brahmin Brajastha Maithil"
+      },
+      {
+         "VALUE":"566",
+         "LABEL":"Brahmin Chittpavan Kokanastha"
+      },
+      {
+         "VALUE":"516",
+         "LABEL":"Brahmin Dadhich"
+      },
+      {
+         "VALUE":"29",
+         "LABEL":"Brahmin Daivadnya"
+      },
+      {
+         "VALUE":"594",
+         "LABEL":"Brahmin Danua"
+      },
+      {
+         "VALUE":"30",
+         "LABEL":"Brahmin Deshastha"
+      },
+      {
+         "VALUE":"545",
+         "LABEL":"Brahmin Devrukhe"
+      },
+      {
+         "VALUE":"292",
+         "LABEL":"Brahmin Dhiman"
+      },
+      {
+         "VALUE":"477",
+         "LABEL":"Brahmin Dravida- All"
+      },
+      {
+         "VALUE":"293",
+         "LABEL":"Brahmin Dravida"
+      },
+      {
+         "VALUE":"294",
+         "LABEL":"Brahmin Dunua"
+      },
+      {
+         "VALUE":"518",
+         "LABEL":"Brahmin Embrandiri"
+      },
+      {
+         "VALUE":"31",
+         "LABEL":"Brahmin Garhwali"
+      },
+      {
+         "VALUE":"32",
+         "LABEL":"Brahmin Gaud Saraswat (GSB)"
+      },
+      {
+         "VALUE":"474",
+         "LABEL":"Brahmin Gaur- All"
+      },
+      {
+         "VALUE":"33",
+         "LABEL":"Brahmin Gaur"
+      },
+      {
+         "VALUE":"34",
+         "LABEL":"Brahmin Goswami"
+      },
+      {
+         "VALUE":"417",
+         "LABEL":"Brahmin Gujar Gaur"
+      },
+      {
+         "VALUE":"480",
+         "LABEL":"Brahmin Gujrati- All"
+      },
+      {
+         "VALUE":"418",
+         "LABEL":"Brahmin Gurukkal"
+      },
+      {
+         "VALUE":"295",
+         "LABEL":"Brahmin Halua"
+      },
+      {
+         "VALUE":"35",
+         "LABEL":"Brahmin Havyaka"
+      },
+      {
+         "VALUE":"296",
+         "LABEL":"Brahmin Hoysala"
+      },
+      {
+         "VALUE":"65",
+         "LABEL":"Brahmin Iyengar"
+      },
+      {
+         "VALUE":"66",
+         "LABEL":"Brahmin Iyer"
+      },
+      {
+         "VALUE":"420",
+         "LABEL":"Brahmin Jangid"
+      },
+      {
+         "VALUE":"421",
+         "LABEL":"Brahmin Jangra"
+      },
+      {
+         "VALUE":"299",
+         "LABEL":"Brahmin Jhadua"
+      },
+      {
+         "VALUE":"262",
+         "LABEL":"Brahmin Jhijhotiya"
+      },
+      {
+         "VALUE":"422",
+         "LABEL":"Brahmin Jogi"
+      },
+      {
+         "VALUE":"519",
+         "LABEL":"Brahmin Jyotish"
+      },
+      {
+         "VALUE":"495",
+         "LABEL":"Brahmin Kannada- All"
+      },
+      {
+         "VALUE":"473",
+         "LABEL":"Brahmin Kanyakubj- All"
+      },
+      {
+         "VALUE":"36",
+         "LABEL":"Brahmin Kanyakubj"
+      },
+      {
+         "VALUE":"37",
+         "LABEL":"Brahmin Karhade"
+      },
+      {
+         "VALUE":"479",
+         "LABEL":"Brahmin Karnataka- All"
+      },
+      {
+         "VALUE":"38",
+         "LABEL":"Brahmin Kashmiri Pandit"
+      },
+      {
+         "VALUE":"520",
+         "LABEL":"Brahmin Khadayat"
+      },
+      {
+         "VALUE":"521",
+         "LABEL":"Brahmin Khandelwal"
+      },
+      {
+         "VALUE":"522",
+         "LABEL":"Brahmin Khedaval"
+      },
+      {
+         "VALUE":"39",
+         "LABEL":"Brahmin Koknastha"
+      },
+      {
+         "VALUE":"300",
+         "LABEL":"Brahmin Kota"
+      },
+      {
+         "VALUE":"301",
+         "LABEL":"Brahmin Kulin"
+      },
+      {
+         "VALUE":"40",
+         "LABEL":"Brahmin Kumaoni"
+      },
+      {
+         "VALUE":"41",
+         "LABEL":"Brahmin Madhwa"
+      },
+      {
+         "VALUE":"481",
+         "LABEL":"Brahmin Maharastra- All"
+      },
+      {
+         "VALUE":"42",
+         "LABEL":"Brahmin Maithil"
+      },
+      {
+         "VALUE":"523",
+         "LABEL":"Brahmin Malviya"
+      },
+      {
+         "VALUE":"547",
+         "LABEL":"Brahmin Marwari"
+      },
+      {
+         "VALUE":"524",
+         "LABEL":"Brahmin Mevada"
+      },
+      {
+         "VALUE":"302",
+         "LABEL":"Brahmin Modh"
+      },
+      {
+         "VALUE":"303",
+         "LABEL":"Brahmin Mohyal"
+      },
+      {
+         "VALUE":"43",
+         "LABEL":"Brahmin Nagar"
+      },
+      {
+         "VALUE":"304",
+         "LABEL":"Brahmin Namboodiri"
+      },
+      {
+         "VALUE":"44",
+         "LABEL":"Brahmin Narmadiya"
+      },
+      {
+         "VALUE":"641",
+         "LABEL":"Brahmin Nayi \/ Nai"
+      },
+      {
+         "VALUE":"525",
+         "LABEL":"Brahmin Paliwal"
+      },
+      {
+         "VALUE":"306",
+         "LABEL":"Brahmin Panda"
+      },
+      {
+         "VALUE":"307",
+         "LABEL":"Brahmin Pandit"
+      },
+      {
+         "VALUE":"526",
+         "LABEL":"Brahmin Panicker"
+      },
+      {
+         "VALUE":"261",
+         "LABEL":"Brahmin Pareek"
+      },
+      {
+         "VALUE":"237",
+         "LABEL":"Brahmin Pushkarna"
+      },
+      {
+         "VALUE":"483",
+         "LABEL":"Brahmin Rajasthani- All"
+      },
+      {
+         "VALUE":"527",
+         "LABEL":"Brahmin Rajgor"
+      },
+      {
+         "VALUE":"309",
+         "LABEL":"Brahmin Rarhi"
+      },
+      {
+         "VALUE":"45",
+         "LABEL":"Brahmin Rigvedi"
+      },
+      {
+         "VALUE":"310",
+         "LABEL":"Brahmin Rudraj"
+      },
+      {
+         "VALUE":"633",
+         "LABEL":"Brahmin Sachora"
+      },
+      {
+         "VALUE":"311",
+         "LABEL":"Brahmin Sakaldwipi"
+      },
+      {
+         "VALUE":"180",
+         "LABEL":"Brahmin Sanadya"
+      },
+      {
+         "VALUE":"634",
+         "LABEL":"Brahmin Sanchihar"
+      },
+      {
+         "VALUE":"312",
+         "LABEL":"Brahmin Sanketi"
+      },
+      {
+         "VALUE":"475",
+         "LABEL":"Brahmin Saraswat- All"
+      },
+      {
+         "VALUE":"46",
+         "LABEL":"Brahmin Saraswat"
+      },
+      {
+         "VALUE":"546",
+         "LABEL":"Brahmin Sarotri"
+      },
+      {
+         "VALUE":"528",
+         "LABEL":"Brahmin Sarua"
+      },
+      {
+         "VALUE":"47",
+         "LABEL":"Brahmin Saryuparin"
+      },
+      {
+         "VALUE":"251",
+         "LABEL":"Brahmin Shivalli"
+      },
+      {
+         "VALUE":"314",
+         "LABEL":"Brahmin Shrimali"
+      },
+      {
+         "VALUE":"529",
+         "LABEL":"Brahmin Sikhwal"
+      },
+      {
+         "VALUE":"48",
+         "LABEL":"Brahmin Smartha"
+      },
+      {
+         "VALUE":"315",
+         "LABEL":"Brahmin Sri Vishnava"
+      },
+      {
+         "VALUE":"530",
+         "LABEL":"Brahmin Stanika"
+      },
+      {
+         "VALUE":"531",
+         "LABEL":"Brahmin Tapodhan"
+      },
+      {
+         "VALUE":"179",
+         "LABEL":"Brahmin Tyagi"
+      },
+      {
+         "VALUE":"476",
+         "LABEL":"Brahmin Utkal- All"
+      },
+      {
+         "VALUE":"49",
+         "LABEL":"Brahmin Vaidiki"
+      },
+      {
+         "VALUE":"595",
+         "LABEL":"Brahmin Vaikhanasa"
+      },
+      {
+         "VALUE":"532",
+         "LABEL":"Brahmin Vaikhawas"
+      },
+      {
+         "VALUE":"544",
+         "LABEL":"Brahmin Vaishnav"
+      },
+      {
+         "VALUE":"533",
+         "LABEL":"Brahmin Valam"
+      },
+      {
+         "VALUE":"534",
+         "LABEL":"Brahmin Velanadu"
+      },
+      {
+         "VALUE":"402",
+         "LABEL":"Brahmin Viswa"
+      },
+      {
+         "VALUE":"316",
+         "LABEL":"Brahmin Vyas"
+      },
+      {
+         "VALUE":"423",
+         "LABEL":"Brahmin Yajurvedi"
+      },
+      {
+         "VALUE":"535",
+         "LABEL":"Brahmin Zalora"
+      },
+      {
+         "VALUE":"317",
+         "LABEL":"Brahmo"
+      },
+      {
+         "VALUE":"615",
+         "LABEL":"Buddar"
+      },
+      {
+         "VALUE":"210",
+         "LABEL":"Bunt Shetty"
+      },
+      {
+         "VALUE":"616",
+         "LABEL":"Chalawadi \/ Holeya"
+      },
+      {
+         "VALUE":"318",
+         "LABEL":"Chamar"
+      },
+      {
+         "VALUE":"52",
+         "LABEL":"Chambhar"
+      },
+      {
+         "VALUE":"319",
+         "LABEL":"Chandravanshi Kahar"
+      },
+      {
+         "VALUE":"596",
+         "LABEL":"Charan"
+      },
+      {
+         "VALUE":"320",
+         "LABEL":"Chasa"
+      },
+      {
+         "VALUE":"424",
+         "LABEL":"Chattada Sri Vaishnava"
+      },
+      {
+         "VALUE":"321",
+         "LABEL":"Chaudary"
+      },
+      {
+         "VALUE":"53",
+         "LABEL":"Chaurasia"
+      },
+      {
+         "VALUE":"597",
+         "LABEL":"Chennadasar"
+      },
+      {
+         "VALUE":"617",
+         "LABEL":"Cheramar"
+      },
+      {
+         "VALUE":"54",
+         "LABEL":"Chettiar"
+      },
+      {
+         "VALUE":"488",
+         "LABEL":"Chettiar- All"
+      },
+      {
+         "VALUE":"322",
+         "LABEL":"Chhetri"
+      },
+      {
+         "VALUE":"618",
+         "LABEL":"Chippolu Mera"
+      },
+      {
+         "VALUE":"55",
+         "LABEL":"CKP"
+      },
+      {
+         "VALUE":"56",
+         "LABEL":"Coorgi"
+      },
+      {
+         "VALUE":"598",
+         "LABEL":"Dasapalanjika Kannada Saineegar"
+      },
+      {
+         "VALUE":"425",
+         "LABEL":"Deshastha Maratha"
+      },
+      {
+         "VALUE":"230",
+         "LABEL":"Devadigas"
+      },
+      {
+         "VALUE":"324",
+         "LABEL":"Devang Koshthi"
+      },
+      {
+         "VALUE":"57",
+         "LABEL":"Devanga"
+      },
+      {
+         "VALUE":"323",
+         "LABEL":"Devendra Kula Vellalar"
+      },
+      {
+         "VALUE":"635",
+         "LABEL":"Devipujak (Vaghri)"
+      },
+      {
+         "VALUE":"58",
+         "LABEL":"Dhangar"
+      },
+      {
+         "VALUE":"646",
+         "LABEL":"Dhanuk"
+      },
+      {
+         "VALUE":"171",
+         "LABEL":"Dheevara"
+      },
+      {
+         "VALUE":"651",
+         "LABEL":"Dhiman"
+      },
+      {
+         "VALUE":"326",
+         "LABEL":"Dhoba"
+      },
+      {
+         "VALUE":"166",
+         "LABEL":"Dhobi"
+      },
+      {
+         "VALUE":"558",
+         "LABEL":"Dhor \/ Dhoar"
+      },
+      {
+         "VALUE":"599",
+         "LABEL":"Dommala"
+      },
+      {
+         "VALUE":"600",
+         "LABEL":"Dumal"
+      },
+      {
+         "VALUE":"426",
+         "LABEL":"Dusadh"
+      },
+      {
+         "VALUE":"178",
+         "LABEL":"Edigas"
+      },
+      {
+         "VALUE":"59",
+         "LABEL":"Ezhava"
+      },
+      {
+         "VALUE":"185",
+         "LABEL":"Ezhuthachan"
+      },
+      {
+         "VALUE":"327",
+         "LABEL":"Gabit"
+      },
+      {
+         "VALUE":"560",
+         "LABEL":"Gangai \/ Ganesh"
+      },
+      {
+         "VALUE":"187",
+         "LABEL":"Ganiga"
+      },
+      {
+         "VALUE":"328",
+         "LABEL":"Garhwali"
+      },
+      {
+         "VALUE":"601",
+         "LABEL":"Gatti"
+      },
+      {
+         "VALUE":"247",
+         "LABEL":"Gavali"
+      },
+      {
+         "VALUE":"602",
+         "LABEL":"Gavandi"
+      },
+      {
+         "VALUE":"188",
+         "LABEL":"Gavara"
+      },
+      {
+         "VALUE":"603",
+         "LABEL":"Ghisadi"
+      },
+      {
+         "VALUE":"329",
+         "LABEL":"Ghumar"
+      },
+      {
+         "VALUE":"330",
+         "LABEL":"Goala"
+      },
+      {
+         "VALUE":"331",
+         "LABEL":"Goan"
+      },
+      {
+         "VALUE":"427",
+         "LABEL":"Gomantak Maratha"
+      },
+      {
+         "VALUE":"548",
+         "LABEL":"Gond Gondi Raj Gond"
+      },
+      {
+         "VALUE":"428",
+         "LABEL":"Gondhali"
+      },
+      {
+         "VALUE":"568",
+         "LABEL":"Gopal"
+      },
+      {
+         "VALUE":"60",
+         "LABEL":"Goud"
+      },
+      {
+         "VALUE":"61",
+         "LABEL":"Gounder"
+      },
+      {
+         "VALUE":"62",
+         "LABEL":"Gowda"
+      },
+      {
+         "VALUE":"429",
+         "LABEL":"Gramani"
+      },
+      {
+         "VALUE":"332",
+         "LABEL":"Gudia"
+      },
+      {
+         "VALUE":"63",
+         "LABEL":"Gujjar"
+      },
+      {
+         "VALUE":"64",
+         "LABEL":"Gupta"
+      },
+      {
+         "VALUE":"652",
+         "LABEL":"Guptan"
+      },
+      {
+         "VALUE":"430",
+         "LABEL":"Gurav"
+      },
+      {
+         "VALUE":"561",
+         "LABEL":"Halba Koshti"
+      },
+      {
+         "VALUE":"223",
+         "LABEL":"Hegde"
+      },
+      {
+         "VALUE":"604",
+         "LABEL":"Helava"
+      },
+      {
+         "VALUE":"605",
+         "LABEL":"Jaalari"
+      },
+      {
+         "VALUE":"70",
+         "LABEL":"Jaiswal"
+      },
+      {
+         "VALUE":"606",
+         "LABEL":"Jandra"
+      },
+      {
+         "VALUE":"333",
+         "LABEL":"Jangam"
+      },
+      {
+         "VALUE":"71",
+         "LABEL":"Jat"
+      },
+      {
+         "VALUE":"72",
+         "LABEL":"Jatav"
+      },
+      {
+         "VALUE":"653",
+         "LABEL":"Jetty Malla"
+      },
+      {
+         "VALUE":"657",
+         "LABEL":"Jingar"
+      },
+      {
+         "VALUE":"607",
+         "LABEL":"Kachara"
+      },
+      {
+         "VALUE":"334",
+         "LABEL":"Kadava patel"
+      },
+      {
+         "VALUE":"432",
+         "LABEL":"Kahar"
+      },
+      {
+         "VALUE":"335",
+         "LABEL":"Kaibarta"
+      },
+      {
+         "VALUE":"608",
+         "LABEL":"Kaikaala"
+      },
+      {
+         "VALUE":"619",
+         "LABEL":"Kakkalan"
+      },
+      {
+         "VALUE":"433",
+         "LABEL":"Kalal"
+      },
+      {
+         "VALUE":"554",
+         "LABEL":"Kalanji"
+      },
+      {
+         "VALUE":"74",
+         "LABEL":"Kalar"
+      },
+      {
+         "VALUE":"654",
+         "LABEL":"Kalinga"
+      },
+      {
+         "VALUE":"434",
+         "LABEL":"Kalinga Vysya"
+      },
+      {
+         "VALUE":"609",
+         "LABEL":"Kalita"
+      },
+      {
+         "VALUE":"337",
+         "LABEL":"Kalwar"
+      },
+      {
+         "VALUE":"225",
+         "LABEL":"Kamboj"
+      },
+      {
+         "VALUE":"73",
+         "LABEL":"Kamma"
+      },
+      {
+         "VALUE":"610",
+         "LABEL":"Kanakkan Padanna"
+      },
+      {
+         "VALUE":"620",
+         "LABEL":"Kaniyan"
+      },
+      {
+         "VALUE":"338",
+         "LABEL":"Kansari"
+      },
+      {
+         "VALUE":"611",
+         "LABEL":"Kansyakaar"
+      },
+      {
+         "VALUE":"435",
+         "LABEL":"Kapol"
+      },
+      {
+         "VALUE":"75",
+         "LABEL":"Kapu- All"
+      },
+      {
+         "VALUE":"501",
+         "LABEL":"Kapu"
+      },
+      {
+         "VALUE":"218",
+         "LABEL":"Kapu Munnuru"
+      },
+      {
+         "VALUE":"612",
+         "LABEL":"Karakala Bhakthula"
+      },
+      {
+         "VALUE":"339",
+         "LABEL":"Karana"
+      },
+      {
+         "VALUE":"340",
+         "LABEL":"Karmakar"
+      },
+      {
+         "VALUE":"190",
+         "LABEL":"Karuneegar"
+      },
+      {
+         "VALUE":"341",
+         "LABEL":"Kasar"
+      },
+      {
+         "VALUE":"342",
+         "LABEL":"Kashyap"
+      },
+      {
+         "VALUE":"567",
+         "LABEL":"Katiya"
+      },
+      {
+         "VALUE":"76",
+         "LABEL":"Kayastha- All"
+      },
+      {
+         "VALUE":"502",
+         "LABEL":"Kayastha"
+      },
+      {
+         "VALUE":"77",
+         "LABEL":"Khandayat"
+      },
+      {
+         "VALUE":"343",
+         "LABEL":"Khandelwal"
+      },
+      {
+         "VALUE":"551",
+         "LABEL":"Kharvi"
+      },
+      {
+         "VALUE":"405",
+         "LABEL":"Kharwar"
+      },
+      {
+         "VALUE":"226",
+         "LABEL":"Khatik"
+      },
+      {
+         "VALUE":"78",
+         "LABEL":"Khatri"
+      },
+      {
+         "VALUE":"484",
+         "LABEL":"Khatri- All"
+      },
+      {
+         "VALUE":"562",
+         "LABEL":"Koeri \/ Koiri"
+      },
+      {
+         "VALUE":"436",
+         "LABEL":"Kokanastha Maratha"
+      },
+      {
+         "VALUE":"79",
+         "LABEL":"Koli"
+      },
+      {
+         "VALUE":"437",
+         "LABEL":"Koli Mahadev"
+      },
+      {
+         "VALUE":"80",
+         "LABEL":"Kongu Vellala Gounder"
+      },
+      {
+         "VALUE":"344",
+         "LABEL":"Konkani"
+      },
+      {
+         "VALUE":"564",
+         "LABEL":"Koracha"
+      },
+      {
+         "VALUE":"621",
+         "LABEL":"Korama"
+      },
+      {
+         "VALUE":"345",
+         "LABEL":"Kori"
+      },
+      {
+         "VALUE":"645",
+         "LABEL":"Korvi"
+      },
+      {
+         "VALUE":"81",
+         "LABEL":"Koshti"
+      },
+      {
+         "VALUE":"622",
+         "LABEL":"Krishnavaka"
+      },
+      {
+         "VALUE":"82",
+         "LABEL":"Kshatriya- All"
+      },
+      {
+         "VALUE":"503",
+         "LABEL":"Kshatriya"
+      },
+      {
+         "VALUE":"217",
+         "LABEL":"Kshatriya Agnikula"
+      },
+      {
+         "VALUE":"346",
+         "LABEL":"Kudumbi"
+      },
+      {
+         "VALUE":"191",
+         "LABEL":"Kulalar"
+      },
+      {
+         "VALUE":"347",
+         "LABEL":"Kulita"
+      },
+      {
+         "VALUE":"83",
+         "LABEL":"Kumawat"
+      },
+      {
+         "VALUE":"438",
+         "LABEL":"Kumbhakar"
+      },
+      {
+         "VALUE":"228",
+         "LABEL":"Kumhar \/ Kumbhar"
+      },
+      {
+         "VALUE":"192",
+         "LABEL":"Kummari"
+      },
+      {
+         "VALUE":"84",
+         "LABEL":"Kunbi"
+      },
+      {
+         "VALUE":"85",
+         "LABEL":"Kurmi"
+      },
+      {
+         "VALUE":"349",
+         "LABEL":"Kurmi kshatriya"
+      },
+      {
+         "VALUE":"86",
+         "LABEL":"Kuruba"
+      },
+      {
+         "VALUE":"350",
+         "LABEL":"Kuruhina shetty"
+      },
+      {
+         "VALUE":"193",
+         "LABEL":"Kurumbar"
+      },
+      {
+         "VALUE":"87",
+         "LABEL":"Kushwaha"
+      },
+      {
+         "VALUE":"351",
+         "LABEL":"Kutchi"
+      },
+      {
+         "VALUE":"439",
+         "LABEL":"Kutchi Gurjar"
+      },
+      {
+         "VALUE":"352",
+         "LABEL":"Lambadi"
+      },
+      {
+         "VALUE":"649",
+         "LABEL":"Laxminarayan gola"
+      },
+      {
+         "VALUE":"88",
+         "LABEL":"Leva Patidar"
+      },
+      {
+         "VALUE":"354",
+         "LABEL":"Leva Patil"
+      },
+      {
+         "VALUE":"89",
+         "LABEL":"Lingayat"
+      },
+      {
+         "VALUE":"440",
+         "LABEL":"Lodhi Rajput"
+      },
+      {
+         "VALUE":"90",
+         "LABEL":"Lohana"
+      },
+      {
+         "VALUE":"250",
+         "LABEL":"Lohar"
+      },
+      {
+         "VALUE":"355",
+         "LABEL":"Lubana"
+      },
+      {
+         "VALUE":"194",
+         "LABEL":"Madiga"
+      },
+      {
+         "VALUE":"356",
+         "LABEL":"Mahajan"
+      },
+      {
+         "VALUE":"357",
+         "LABEL":"Mahar"
+      },
+      {
+         "VALUE":"623",
+         "LABEL":"Mahendra"
+      },
+      {
+         "VALUE":"91",
+         "LABEL":"Maheshwari"
+      },
+      {
+         "VALUE":"358",
+         "LABEL":"Mahindra"
+      },
+      {
+         "VALUE":"92",
+         "LABEL":"Mahisya"
+      },
+      {
+         "VALUE":"359",
+         "LABEL":"Majabi Mazhbi"
+      },
+      {
+         "VALUE":"195",
+         "LABEL":"Mala"
+      },
+      {
+         "VALUE":"93",
+         "LABEL":"Mali"
+      },
+      {
+         "VALUE":"164",
+         "LABEL":"Mallah"
+      },
+      {
+         "VALUE":"573",
+         "LABEL":"Manikpuri"
+      },
+      {
+         "VALUE":"360",
+         "LABEL":"Manipuri"
+      },
+      {
+         "VALUE":"557",
+         "LABEL":"Manjhi"
+      },
+      {
+         "VALUE":"361",
+         "LABEL":"Mapila"
+      },
+      {
+         "VALUE":"94",
+         "LABEL":"Maratha"
+      },
+      {
+         "VALUE":"494",
+         "LABEL":"Maratha- All"
+      },
+      {
+         "VALUE":"441",
+         "LABEL":"Maravar"
+      },
+      {
+         "VALUE":"197",
+         "LABEL":"Maruthuvar"
+      },
+      {
+         "VALUE":"95",
+         "LABEL":"Marwari"
+      },
+      {
+         "VALUE":"486",
+         "LABEL":"Marwari- All"
+      },
+      {
+         "VALUE":"362",
+         "LABEL":"Matang"
+      },
+      {
+         "VALUE":"442",
+         "LABEL":"Mathur"
+      },
+      {
+         "VALUE":"96",
+         "LABEL":"Maurya"
+      },
+      {
+         "VALUE":"364",
+         "LABEL":"Meena"
+      },
+      {
+         "VALUE":"198",
+         "LABEL":"Meenavar"
+      },
+      {
+         "VALUE":"365",
+         "LABEL":"Mehra"
+      },
+      {
+         "VALUE":"97",
+         "LABEL":"Menon"
+      },
+      {
+         "VALUE":"170",
+         "LABEL":"Meru"
+      },
+      {
+         "VALUE":"366",
+         "LABEL":"Meru darji"
+      },
+      {
+         "VALUE":"367",
+         "LABEL":"Modak"
+      },
+      {
+         "VALUE":"100",
+         "LABEL":"Mogaveera"
+      },
+      {
+         "VALUE":"235",
+         "LABEL":"Monchi"
+      },
+      {
+         "VALUE":"443",
+         "LABEL":"Motati Reddy"
+      },
+      {
+         "VALUE":"98",
+         "LABEL":"Mudaliar- All"
+      },
+      {
+         "VALUE":"504",
+         "LABEL":"Mudaliar"
+      },
+      {
+         "VALUE":"99",
+         "LABEL":"Mudaliar Arcot"
+      },
+      {
+         "VALUE":"199",
+         "LABEL":"Mudiraj"
+      },
+      {
+         "VALUE":"201",
+         "LABEL":"Muthuraja"
+      },
+      {
+         "VALUE":"625",
+         "LABEL":"Naagavamsam"
+      },
+      {
+         "VALUE":"101",
+         "LABEL":"Nadar"
+      },
+      {
+         "VALUE":"626",
+         "LABEL":"Nagaralu"
+      },
+      {
+         "VALUE":"202",
+         "LABEL":"Naicker"
+      },
+      {
+         "VALUE":"102",
+         "LABEL":"Naidu"
+      },
+      {
+         "VALUE":"233",
+         "LABEL":"Naik Nayak Nayaka"
+      },
+      {
+         "VALUE":"103",
+         "LABEL":"Nair- All"
+      },
+      {
+         "VALUE":"505",
+         "LABEL":"Nair"
+      },
+      {
+         "VALUE":"400",
+         "LABEL":"Nair Veluthedathu"
+      },
+      {
+         "VALUE":"401",
+         "LABEL":"Nair Vilakkithala"
+      },
+      {
+         "VALUE":"253",
+         "LABEL":"Namasudra \/ Namosudra"
+      },
+      {
+         "VALUE":"104",
+         "LABEL":"Nambiar"
+      },
+      {
+         "VALUE":"655",
+         "LABEL":"Nambisan"
+      },
+      {
+         "VALUE":"105",
+         "LABEL":"Namboodiri"
+      },
+      {
+         "VALUE":"572",
+         "LABEL":"Namdev Chhipa"
+      },
+      {
+         "VALUE":"638",
+         "LABEL":"Nandiwale"
+      },
+      {
+         "VALUE":"369",
+         "LABEL":"Napit"
+      },
+      {
+         "VALUE":"553",
+         "LABEL":"Nath Jogi"
+      },
+      {
+         "VALUE":"107",
+         "LABEL":"Nayee (Barber)"
+      },
+      {
+         "VALUE":"106",
+         "LABEL":"Nepali"
+      },
+      {
+         "VALUE":"647",
+         "LABEL":"Nessi \/ Kurni"
+      },
+      {
+         "VALUE":"370",
+         "LABEL":"Nhavi"
+      },
+      {
+         "VALUE":"555",
+         "LABEL":"Nonia"
+      },
+      {
+         "VALUE":"470",
+         "LABEL":"OBC"
+      },
+      {
+         "VALUE":"643",
+         "LABEL":"Odan"
+      },
+      {
+         "VALUE":"371",
+         "LABEL":"Oswal"
+      },
+      {
+         "VALUE":"627",
+         "LABEL":"Otari"
+      },
+      {
+         "VALUE":"242",
+         "LABEL":"Hindu: Others"
+      },
+      {
+         "VALUE":"108",
+         "LABEL":"Padmashali"
+      },
+      {
+         "VALUE":"372",
+         "LABEL":"Pal"
+      },
+      {
+         "VALUE":"373",
+         "LABEL":"Panchal"
+      },
+      {
+         "VALUE":"444",
+         "LABEL":"Panchamsali"
+      },
+      {
+         "VALUE":"445",
+         "LABEL":"Pandaram"
+      },
+      {
+         "VALUE":"204",
+         "LABEL":"Panicker"
+      },
+      {
+         "VALUE":"205",
+         "LABEL":"Parkava Kulam"
+      },
+      {
+         "VALUE":"640",
+         "LABEL":"Parvatha Rajakulam"
+      },
+      {
+         "VALUE":"374",
+         "LABEL":"Pasi"
+      },
+      {
+         "VALUE":"109",
+         "LABEL":"Patel- All"
+      },
+      {
+         "VALUE":"506",
+         "LABEL":"Patel"
+      },
+      {
+         "VALUE":"176",
+         "LABEL":"Patel Dodia"
+      },
+      {
+         "VALUE":"110",
+         "LABEL":"Patel Kadva"
+      },
+      {
+         "VALUE":"111",
+         "LABEL":"Patel Leva"
+      },
+      {
+         "VALUE":"543",
+         "LABEL":"Patel Lodhi"
+      },
+      {
+         "VALUE":"571",
+         "LABEL":"Pathare Prabhu"
+      },
+      {
+         "VALUE":"112",
+         "LABEL":"Patil- All"
+      },
+      {
+         "VALUE":"507",
+         "LABEL":"Patil"
+      },
+      {
+         "VALUE":"206",
+         "LABEL":"Patnaick"
+      },
+      {
+         "VALUE":"375",
+         "LABEL":"Patra"
+      },
+      {
+         "VALUE":"446",
+         "LABEL":"Perika"
+      },
+      {
+         "VALUE":"114",
+         "LABEL":"Pillai"
+      },
+      {
+         "VALUE":"628",
+         "LABEL":"Poosala"
+      },
+      {
+         "VALUE":"115",
+         "LABEL":"Prajapati"
+      },
+      {
+         "VALUE":"578",
+         "LABEL":"Rabari"
+      },
+      {
+         "VALUE":"447",
+         "LABEL":"Raigar"
+      },
+      {
+         "VALUE":"556",
+         "LABEL":"Raikwar"
+      },
+      {
+         "VALUE":"207",
+         "LABEL":"Rajaka"
+      },
+      {
+         "VALUE":"448",
+         "LABEL":"Rajbhar"
+      },
+      {
+         "VALUE":"376",
+         "LABEL":"Rajbongshi"
+      },
+      {
+         "VALUE":"550",
+         "LABEL":"Rajpurohit"
+      },
+      {
+         "VALUE":"116",
+         "LABEL":"Rajput- All"
+      },
+      {
+         "VALUE":"508",
+         "LABEL":"Rajput"
+      },
+      {
+         "VALUE":"117",
+         "LABEL":"Rajput Garhwali"
+      },
+      {
+         "VALUE":"118",
+         "LABEL":"Rajput Kumaoni"
+      },
+      {
+         "VALUE":"449",
+         "LABEL":"Rajput Negi"
+      },
+      {
+         "VALUE":"221",
+         "LABEL":"Rajput Rohella Tank"
+      },
+      {
+         "VALUE":"377",
+         "LABEL":"Ramdasia"
+      },
+      {
+         "VALUE":"378",
+         "LABEL":"Ramgarhia"
+      },
+      {
+         "VALUE":"549",
+         "LABEL":"Ramoshi Berad Bedar"
+      },
+      {
+         "VALUE":"379",
+         "LABEL":"Ravidasia"
+      },
+      {
+         "VALUE":"380",
+         "LABEL":"Rawat"
+      },
+      {
+         "VALUE":"119",
+         "LABEL":"Reddy"
+      },
+      {
+         "VALUE":"639",
+         "LABEL":"Ror"
+      },
+      {
+         "VALUE":"120",
+         "LABEL":"Sadgope"
+      },
+      {
+         "VALUE":"381",
+         "LABEL":"Saha"
+      },
+      {
+         "VALUE":"382",
+         "LABEL":"Sahu"
+      },
+      {
+         "VALUE":"177",
+         "LABEL":"Saini"
+      },
+      {
+         "VALUE":"208",
+         "LABEL":"Saliya"
+      },
+      {
+         "VALUE":"570",
+         "LABEL":"Sathwara"
+      },
+      {
+         "VALUE":"656",
+         "LABEL":"Savji"
+      },
+      {
+         "VALUE":"565",
+         "LABEL":"Sawantwadi"
+      },
+      {
+         "VALUE":"121",
+         "LABEL":"Scheduled Caste"
+      },
+      {
+         "VALUE":"489",
+         "LABEL":"Scheduled Caste- All"
+      },
+      {
+         "VALUE":"403",
+         "LABEL":"Scheduled Tribe"
+      },
+      {
+         "VALUE":"490",
+         "LABEL":"Scheduled Tribe- All"
+      },
+      {
+         "VALUE":"209",
+         "LABEL":"Senai Thalaivar"
+      },
+      {
+         "VALUE":"450",
+         "LABEL":"Senguntha Mudaliyar"
+      },
+      {
+         "VALUE":"383",
+         "LABEL":"Settibalija"
+      },
+      {
+         "VALUE":"165",
+         "LABEL":"Shah"
+      },
+      {
+         "VALUE":"122",
+         "LABEL":"Shimpi"
+      },
+      {
+         "VALUE":"123",
+         "LABEL":"Sindhi"
+      },
+      {
+         "VALUE":"492",
+         "LABEL":"Sindhi- All"
+      },
+      {
+         "VALUE":"451",
+         "LABEL":"Sindhi Amil"
+      },
+      {
+         "VALUE":"452",
+         "LABEL":"Sindhi Baibhand"
+      },
+      {
+         "VALUE":"511",
+         "LABEL":"Sindhi Bhanusali"
+      },
+      {
+         "VALUE":"453",
+         "LABEL":"Sindhi Bhatia"
+      },
+      {
+         "VALUE":"536",
+         "LABEL":"Sindhi Chhapru"
+      },
+      {
+         "VALUE":"542",
+         "LABEL":"Sindhi Daru"
+      },
+      {
+         "VALUE":"537",
+         "LABEL":"Sindhi Hydrabadi"
+      },
+      {
+         "VALUE":"454",
+         "LABEL":"Sindhi Larai"
+      },
+      {
+         "VALUE":"538",
+         "LABEL":"Sindhi Larkan"
+      },
+      {
+         "VALUE":"455",
+         "LABEL":"Sindhi Larkana"
+      },
+      {
+         "VALUE":"539",
+         "LABEL":"Sindhi Lohana"
+      },
+      {
+         "VALUE":"456",
+         "LABEL":"Sindhi Rohiri"
+      },
+      {
+         "VALUE":"457",
+         "LABEL":"Sindhi Sahiti"
+      },
+      {
+         "VALUE":"458",
+         "LABEL":"Sindhi Sakkhar"
+      },
+      {
+         "VALUE":"540",
+         "LABEL":"Sindhi Sehwani"
+      },
+      {
+         "VALUE":"459",
+         "LABEL":"Sindhi Shikarpuri"
+      },
+      {
+         "VALUE":"541",
+         "LABEL":"Sindhi Thatai"
+      },
+      {
+         "VALUE":"460",
+         "LABEL":"SKP"
+      },
+      {
+         "VALUE":"124",
+         "LABEL":"Somvanshi"
+      },
+      {
+         "VALUE":"241",
+         "LABEL":"Somvanshi Kayastha Prabhu"
+      },
+      {
+         "VALUE":"125",
+         "LABEL":"Sonar \/ Sunar"
+      },
+      {
+         "VALUE":"384",
+         "LABEL":"Soni"
+      },
+      {
+         "VALUE":"461",
+         "LABEL":"Sood"
+      },
+      {
+         "VALUE":"211",
+         "LABEL":"Sourashtra"
+      },
+      {
+         "VALUE":"126",
+         "LABEL":"Sozhiya Vellalar"
+      },
+      {
+         "VALUE":"232",
+         "LABEL":"Srisayani"
+      },
+      {
+         "VALUE":"239",
+         "LABEL":"SSK"
+      },
+      {
+         "VALUE":"385",
+         "LABEL":"Subarna Banik"
+      },
+      {
+         "VALUE":"386",
+         "LABEL":"Sudi Suri Sundhi Shaundik"
+      },
+      {
+         "VALUE":"127",
+         "LABEL":"Sutar"
+      },
+      {
+         "VALUE":"387",
+         "LABEL":"Swakula sali"
+      },
+      {
+         "VALUE":"128",
+         "LABEL":"Swarnkar"
+      },
+      {
+         "VALUE":"388",
+         "LABEL":"Tamboli"
+      },
+      {
+         "VALUE":"650",
+         "LABEL":"Tammali"
+      },
+      {
+         "VALUE":"389",
+         "LABEL":"Tanti"
+      },
+      {
+         "VALUE":"163",
+         "LABEL":"Tantuway"
+      },
+      {
+         "VALUE":"212",
+         "LABEL":"Telaga"
+      },
+      {
+         "VALUE":"129",
+         "LABEL":"Teli"
+      },
+      {
+         "VALUE":"493",
+         "LABEL":"Teli- All"
+      },
+      {
+         "VALUE":"390",
+         "LABEL":"Thakkar"
+      },
+      {
+         "VALUE":"391",
+         "LABEL":"Thakur"
+      },
+      {
+         "VALUE":"642",
+         "LABEL":"Tharakan"
+      },
+      {
+         "VALUE":"130",
+         "LABEL":"Thevar Mukkulathor"
+      },
+      {
+         "VALUE":"392",
+         "LABEL":"Thigala"
+      },
+      {
+         "VALUE":"131",
+         "LABEL":"Thiyya"
+      },
+      {
+         "VALUE":"462",
+         "LABEL":"Tili"
+      },
+      {
+         "VALUE":"463",
+         "LABEL":"Togata"
+      },
+      {
+         "VALUE":"464",
+         "LABEL":"Tonk Kshatriya"
+      },
+      {
+         "VALUE":"393",
+         "LABEL":"Tribe"
+      },
+      {
+         "VALUE":"465",
+         "LABEL":"Turupu Kapu"
+      },
+      {
+         "VALUE":"394",
+         "LABEL":"Uppara"
+      },
+      {
+         "VALUE":"577",
+         "LABEL":"Vadar"
+      },
+      {
+         "VALUE":"395",
+         "LABEL":"Vaddera"
+      },
+      {
+         "VALUE":"466",
+         "LABEL":"Vaidiki Velanadu"
+      },
+      {
+         "VALUE":"133",
+         "LABEL":"Vaish"
+      },
+      {
+         "VALUE":"134",
+         "LABEL":"Vaishnav- All"
+      },
+      {
+         "VALUE":"509",
+         "LABEL":"Vaishnav"
+      },
+      {
+         "VALUE":"135",
+         "LABEL":"Vaishnav Vanik"
+      },
+      {
+         "VALUE":"396",
+         "LABEL":"Vaishnava"
+      },
+      {
+         "VALUE":"136",
+         "LABEL":"Vaishya"
+      },
+      {
+         "VALUE":"397",
+         "LABEL":"Vaishya Vani"
+      },
+      {
+         "VALUE":"629",
+         "LABEL":"Vallala"
+      },
+      {
+         "VALUE":"467",
+         "LABEL":"Valluvar"
+      },
+      {
+         "VALUE":"137",
+         "LABEL":"Valmiki"
+      },
+      {
+         "VALUE":"398",
+         "LABEL":"Vania"
+      },
+      {
+         "VALUE":"399",
+         "LABEL":"Vaniya"
+      },
+      {
+         "VALUE":"630",
+         "LABEL":"Vanjara"
+      },
+      {
+         "VALUE":"224",
+         "LABEL":"Vanjari"
+      },
+      {
+         "VALUE":"236",
+         "LABEL":"Vankar"
+      },
+      {
+         "VALUE":"213",
+         "LABEL":"Vannar"
+      },
+      {
+         "VALUE":"214",
+         "LABEL":"Vannia Kula Kshatriyar"
+      },
+      {
+         "VALUE":"138",
+         "LABEL":"Vanniyar"
+      },
+      {
+         "VALUE":"624",
+         "LABEL":"Variar"
+      },
+      {
+         "VALUE":"139",
+         "LABEL":"Varshney"
+      },
+      {
+         "VALUE":"215",
+         "LABEL":"Veershaiva Veera Saivam"
+      },
+      {
+         "VALUE":"631",
+         "LABEL":"Velaan"
+      },
+      {
+         "VALUE":"142",
+         "LABEL":"Velama"
+      },
+      {
+         "VALUE":"468",
+         "LABEL":"Velan"
+      },
+      {
+         "VALUE":"141",
+         "LABEL":"Vellalar- All"
+      },
+      {
+         "VALUE":"510",
+         "LABEL":"Vellalar"
+      },
+      {
+         "VALUE":"469",
+         "LABEL":"Vettuva Gounder"
+      },
+      {
+         "VALUE":"143",
+         "LABEL":"Vishwakarma"
+      },
+      {
+         "VALUE":"144",
+         "LABEL":"Vokkaliga"
+      },
+      {
+         "VALUE":"145",
+         "LABEL":"Vysya"
+      },
+      {
+         "VALUE":"575",
+         "LABEL":"Wani"
+      },
+      {
+         "VALUE":"146",
+         "LABEL":"Yadav \/ Yadava"
+      },
+      {
+         "VALUE":"632",
+         "LABEL":"Yellapu"
+      }
+   ],
+   "2":[
+      {
+         "VALUE":"151",
+         "LABEL":"Shia"
+      },
+      {
+         "VALUE":"152",
+         "LABEL":"Sunni"
+      }
+   ],
+   "4":[
+      {
+         "VALUE":"167",
+         "LABEL":"Arora"
+      },
+      {
+         "VALUE":"472",
+         "LABEL":"Bhatia"
+      },
+      {
+         "VALUE":"155",
+         "LABEL":"Gursikh"
+      },
+      {
+         "VALUE":"156",
+         "LABEL":"Jat"
+      },
+      {
+         "VALUE":"157",
+         "LABEL":"Kamboj"
+      },
+      {
+         "VALUE":"158",
+         "LABEL":"Kesadhari"
+      },
+      {
+         "VALUE":"222",
+         "LABEL":"Khashap Rajpoot"
+      },
+      {
+         "VALUE":"159",
+         "LABEL":"Khatri"
+      },
+      {
+         "VALUE":"172",
+         "LABEL":"Labana"
+      },
+      {
+         "VALUE":"248",
+         "LABEL":"Mazhbi"
+      },
+      {
+         "VALUE":"579",
+         "LABEL":"Nai"
+      },
+      {
+         "VALUE":"245",
+         "LABEL":"Sikh: Others"
+      },
+      {
+         "VALUE":"580",
+         "LABEL":"Prajapati"
+      },
+      {
+         "VALUE":"644",
+         "LABEL":"Rai Sikh"
+      },
+      {
+         "VALUE":"471",
+         "LABEL":"Rajput"
+      },
+      {
+         "VALUE":"249",
+         "LABEL":"Ramdasia"
+      },
+      {
+         "VALUE":"160",
+         "LABEL":"Ramgarhia"
+      },
+      {
+         "VALUE":"161",
+         "LABEL":"Saini"
+      },
+      {
+         "VALUE":"563",
+         "LABEL":"Tonk Kshatriya"
+      }
+   ],
+   "9":[
+      {
+         "VALUE":"174",
+         "LABEL":"Digamber"
+      },
+      {
+         "VALUE":"246",
+         "LABEL":"Jain: Others"
+      },
+      {
+         "VALUE":"175",
+         "LABEL":"Shwetamber"
+      }
+   ],
+   "3":[
+      {
+         "VALUE":"263",
+         "LABEL":"Anglo Indian"
+      },
+      {
+         "VALUE":"3",
+         "LABEL":"Born Again"
+      },
+      {
+         "VALUE":"264",
+         "LABEL":"Brethren"
+      },
+      {
+         "VALUE":"4",
+         "LABEL":"Catholic"
+      },
+      {
+         "VALUE":"266",
+         "LABEL":"Catholic - Knanaya"
+      },
+      {
+         "VALUE":"268",
+         "LABEL":"Catholic - Latin"
+      },
+      {
+         "VALUE":"269",
+         "LABEL":"Catholic - Malankara"
+      },
+      {
+         "VALUE":"270",
+         "LABEL":"Catholic - Roman"
+      },
+      {
+         "VALUE":"267",
+         "LABEL":"Catholic - Syrian"
+      },
+      {
+         "VALUE":"265",
+         "LABEL":"Chaldean"
+      },
+      {
+         "VALUE":"5",
+         "LABEL":"CMS"
+      },
+      {
+         "VALUE":"6",
+         "LABEL":"CSI"
+      },
+      {
+         "VALUE":"7",
+         "LABEL":"Evangelical"
+      },
+      {
+         "VALUE":"181",
+         "LABEL":"Indian Orthodox"
+      },
+      {
+         "VALUE":"8",
+         "LABEL":"Jacobite"
+      },
+      {
+         "VALUE":"271",
+         "LABEL":"Jacobite - Knanaya"
+      },
+      {
+         "VALUE":"272",
+         "LABEL":"Jacobite - Syrian"
+      },
+      {
+         "VALUE":"552",
+         "LABEL":"Kharvi"
+      },
+      {
+         "VALUE":"277",
+         "LABEL":"Knanaya"
+      },
+      {
+         "VALUE":"196",
+         "LABEL":"Mangalorean"
+      },
+      {
+         "VALUE":"273",
+         "LABEL":"Manglorean"
+      },
+      {
+         "VALUE":"9",
+         "LABEL":"Marthomite"
+      },
+      {
+         "VALUE":"10",
+         "LABEL":"Nadar"
+      },
+      {
+         "VALUE":"244",
+         "LABEL":"Christian: Others"
+      },
+      {
+         "VALUE":"13",
+         "LABEL":"Pentecost"
+      },
+      {
+         "VALUE":"11",
+         "LABEL":"Protestant"
+      },
+      {
+         "VALUE":"12",
+         "LABEL":"Syrian"
+      },
+      {
+         "VALUE":"276",
+         "LABEL":"Syrian - Malabar"
+      },
+      {
+         "VALUE":"275",
+         "LABEL":"Syrian - Orthodox"
+      },
+      {
+         "VALUE":"406",
+         "LABEL":"Syro - Malabar"
+      }
+   ]
+}";"

@@ -1,0 +1,285 @@
+<label class="pt14">Occupation</label>
+<div class="advbdr3 advbr1">
+<div id="partner_occupation_arrDiv" class="advp3">
+<select id="partner_occupation_arr" data-placeholder="Doesn't Matter" multiple class="js-frmfld chosen-select-width js-torem" data=''>
+<option class="textTru chosenDropWid" value=""></option>
+<option class="textTru chosenDropWid" id="e4" value='e4'>Government/Public Sector</option>
+
+<option class="textTru chosenDropWid" id="e2" value='e2'>Civil Services</option>
+
+<option class="textTru chosenDropWid" id="e3" value='e3'>Defence</option>
+
+<option class="textTru chosenDropWid" id="e1" value='e1'>Business/ Self Employed</option>
+
+<option class="textTru chosenDropWid" id="e5" value='e5'>Not Working</option>
+
+</optgroup>
+<optgroup class="brdrb-4 fullwidImp" value='-1' label="Administration">
+
+<option class="textTru chosenDropWid" id="63" value='63'>Admin Professional</option>
+
+<option class="textTru chosenDropWid" id="77" value='77'>Clerk</option>
+
+<option class="textTru chosenDropWid" id="67" value='67'>Operator/Technician</option>
+
+<option class="textTru chosenDropWid" id="16" value='16'>Secretary/Front Office</option>
+
+</optgroup>
+<optgroup class="brdrb-4 fullwidImp" value='-1' label="Advertising, Media &amp; Entertainment">
+
+<option class="textTru chosenDropWid" id="5" value='5'>Actor/Model</option>
+
+<option class="textTru chosenDropWid" id="2" value='2'>Advertising Professional</option>
+
+<option class="textTru chosenDropWid" id="76" value='76'>Film/ Entertainment Professional</option>
+
+<option class="textTru chosenDropWid" id="9" value='9'>Journalist</option>
+
+<option class="textTru chosenDropWid" id="54" value='54'>Media Professional</option>
+
+<option class="textTru chosenDropWid" id="78" value='78'>PR Professional</option>
+
+</optgroup>
+<optgroup class="brdrb-4 fullwidImp" value='-1' label="Agricultural">
+
+<option class="textTru chosenDropWid" id="79" value='79'>Agriculture Professional</option>
+
+<option class="textTru chosenDropWid" id="32" value='32'>Farming</option>
+
+</optgroup>
+<optgroup class="brdrb-4 fullwidImp" value='-1' label="Airline &amp; Aviation">
+
+<option class="textTru chosenDropWid" id="80" value='80'>Airline Professional</option>
+
+<option class="textTru chosenDropWid" id="46" value='46'>Flight Attendant</option>
+
+<option class="textTru chosenDropWid" id="45" value='45'>Pilot</option>
+
+</optgroup>
+<optgroup class="brdrb-4 fullwidImp" value='-1' label="Architecture">
+
+<option class="textTru chosenDropWid" id="6" value='6'>Architect</option>
+
+</optgroup>
+<optgroup class="brdrb-4 fullwidImp" value='-1' label="Armed Forces">
+
+<option class="textTru chosenDropWid" id="86" value='86'>Air Force</option>
+
+<option class="textTru chosenDropWid" id="84" value='84'>Army</option>
+
+<option class="textTru chosenDropWid" id="34" value='34'>Defence Services</option>
+
+<option class="textTru chosenDropWid" id="85" value='85'>Navy</option>
+
+</optgroup>
+<optgroup class="brdrb-4 fullwidImp" value='-1' label="Banking &amp; Finance">
+
+<option class="textTru chosenDropWid" id="1" value='1'>Accounting Professional</option>
+
+<option class="textTru chosenDropWid" id="82" value='82'>Auditor</option>
+
+<option class="textTru chosenDropWid" id="7" value='7'>Banking Professional</option>
+
+<option class="textTru chosenDropWid" id="65" value='65'>Chartered Accountant</option>
+
+<option class="textTru chosenDropWid" id="81" value='81'>Finance Professional</option>
+
+</optgroup>
+<optgroup class="brdrb-4 fullwidImp" value='-1' label="BPO &amp; Customer Service">
+
+<option class="textTru chosenDropWid" id="8" value='8'>BPO/ITes Professional</option>
+
+<option class="textTru chosenDropWid" id="12" value='12'>Customer Service</option>
+
+</optgroup>
+<optgroup class="brdrb-4 fullwidImp" value='-1' label="Civil Services">
+
+<option class="textTru chosenDropWid" id="33" value='33'>Civil Services (IAS/ IPS/ IRS/ IES/ IFS)</option>
+
+</optgroup>
+<optgroup class="brdrb-4 fullwidImp" value='-1' label="Corporate Management Professionals">
+
+<option class="textTru chosenDropWid" id="64" value='64'>Analyst</option>
+
+<option class="textTru chosenDropWid" id="50" value='50'>Consultant</option>
+
+<option class="textTru chosenDropWid" id="10" value='10'>Corporate Communication</option>
+
+<option class="textTru chosenDropWid" id="11" value='11'>Corporate Planning</option>
+
+<option class="textTru chosenDropWid" id="19" value='19'>HR Professional</option>
+
+<option class="textTru chosenDropWid" id="49" value='49'>Marketing Professional</option>
+
+<option class="textTru chosenDropWid" id="23" value='23'>Operations Management</option>
+
+<option class="textTru chosenDropWid" id="68" value='68'>Product manager</option>
+
+<option class="textTru chosenDropWid" id="69" value='69'>Program Manager</option>
+
+<option class="textTru chosenDropWid" id="59" value='59'>Project Manager - Non IT</option>
+
+<option class="textTru chosenDropWid" id="28" value='28'>Sales Professional</option>
+
+<option class="textTru chosenDropWid" id="66" value='66'>Sr. Manager/ Manager</option>
+
+<option class="textTru chosenDropWid" id="83" value='83'>Subject Matter Expert</option>
+
+</optgroup>
+<optgroup class="brdrb-4 fullwidImp" value='-1' label="Doctor">
+
+<option class="textTru chosenDropWid" id="87" value='87'>Dentist</option>
+
+<option class="textTru chosenDropWid" id="57" value='57'>Doctor</option>
+
+<option class="textTru chosenDropWid" id="88" value='88'>Surgeon</option>
+
+</optgroup>
+<optgroup class="brdrb-4 fullwidImp" value='-1' label="Education &amp; Training">
+
+<option class="textTru chosenDropWid" id="60" value='60'>Education Professional</option>
+
+<option class="textTru chosenDropWid" id="91" value='91'>Educational Institution Owner</option>
+
+<option class="textTru chosenDropWid" id="89" value='89'>Librarian</option>
+
+<option class="textTru chosenDropWid" id="58" value='58'>Professor/Lecturer</option>
+
+<option class="textTru chosenDropWid" id="90" value='90'>Research Assistant</option>
+
+<option class="textTru chosenDropWid" id="31" value='31'>Teacher</option>
+
+</optgroup>
+<optgroup class="brdrb-4 fullwidImp" value='-1' label="Engineering">
+
+<option class="textTru chosenDropWid" id="92" value='92'>Electronics Engineer</option>
+
+<option class="textTru chosenDropWid" id="21" value='21'>Hardware/Telecom Engineer</option>
+
+<option class="textTru chosenDropWid" id="27" value='27'>Non – IT Engineer</option>
+
+<option class="textTru chosenDropWid" id="93" value='93'>Quality Assurance Engineer</option>
+
+</optgroup>
+<optgroup class="brdrb-4 fullwidImp" value='-1' label="Hospitality">
+
+<option class="textTru chosenDropWid" id="47" value='47'>Hotels/Hospitality Professional</option>
+
+</optgroup>
+<optgroup class="brdrb-4 fullwidImp" value='-1' label="Law Enforcement">
+
+<option class="textTru chosenDropWid" id="94" value='94'>Law Enforcement Officer</option>
+
+<option class="textTru chosenDropWid" id="56" value='56'>Police</option>
+
+</optgroup>
+<optgroup class="brdrb-4 fullwidImp" value='-1' label="Legal">
+
+<option class="textTru chosenDropWid" id="22" value='22'>Lawyer &amp; Legal Professional</option>
+
+</optgroup>
+<optgroup class="brdrb-4 fullwidImp" value='-1' label="Merchant Navy">
+
+<option class="textTru chosenDropWid" id="95" value='95'>Mariner</option>
+
+<option class="textTru chosenDropWid" id="42" value='42'>Merchant Naval Officer</option>
+
+</optgroup>
+<optgroup class="brdrb-4 fullwidImp" value='-1' label="Not working">
+
+<option class="textTru chosenDropWid" id="44" value='44'>Looking for job</option>
+
+<option class="textTru chosenDropWid" id="36" value='36'>Not working</option>
+
+<option class="textTru chosenDropWid" id="110" value='110'>Retired</option>
+
+<option class="textTru chosenDropWid" id="41" value='41'>Student</option>
+
+</optgroup>
+<optgroup class="brdrb-4 fullwidImp" value='-1' label="Medical &amp; HealthCare - Other">
+
+<option class="textTru chosenDropWid" id="24" value='24'>Medical/ Healthcare Professional</option>
+
+<option class="textTru chosenDropWid" id="53" value='53'>Nurse</option>
+
+<option class="textTru chosenDropWid" id="99" value='99'>Paramedic</option>
+
+<option class="textTru chosenDropWid" id="100" value='100'>Pharmacist</option>
+
+<option class="textTru chosenDropWid" id="74" value='74'>Physiotherapist</option>
+
+<option class="textTru chosenDropWid" id="70" value='70'>Psychologist</option>
+
+<option class="textTru chosenDropWid" id="101" value='101'>Veterinary Doctor</option>
+
+</optgroup>
+<optgroup class="brdrb-4 fullwidImp" value='-1' label="Science &amp; Research">
+
+<option class="textTru chosenDropWid" id="61" value='61'>Research Professional</option>
+
+<option class="textTru chosenDropWid" id="96" value='96'>Science Professional</option>
+
+<option class="textTru chosenDropWid" id="62" value='62'>Scientist</option>
+
+</optgroup>
+<optgroup class="brdrb-4 fullwidImp" value='-1' label="Software &amp; IT">
+
+<option class="textTru chosenDropWid" id="102" value='102'>Animator</option>
+
+<option class="textTru chosenDropWid" id="75" value='75'>Cyber/Network Security</option>
+
+<option class="textTru chosenDropWid" id="111" value='111'>Project Lead - IT</option>
+
+<option class="textTru chosenDropWid" id="30" value='30'>Project Manager - IT</option>
+
+<option class="textTru chosenDropWid" id="97" value='97'>Quality Assurance Engineer - IT</option>
+
+<option class="textTru chosenDropWid" id="20" value='20'>Software Professional</option>
+
+<option class="textTru chosenDropWid" id="71" value='71'>UI/UX designer</option>
+
+<option class="textTru chosenDropWid" id="17" value='17'>Web/Graphic Designer</option>
+
+</optgroup>
+<optgroup class="brdrb-4 fullwidImp" value='-1' label="Top Management">
+
+<option class="textTru chosenDropWid" id="48" value='48'>CxO/ Chairman/ President/ Director</option>
+
+<option class="textTru chosenDropWid" id="98" value='98'>VP/ AVP/ GM/ DGM</option>
+
+</optgroup>
+<optgroup class="brdrb-4 fullwidImp" value='-1' label="Others">
+
+<option class="textTru chosenDropWid" id="3" value='3'>Agent</option>
+
+<option class="textTru chosenDropWid" id="103" value='103'>Artist</option>
+
+<option class="textTru chosenDropWid" id="40" value='40'>Beautician</option>
+
+<option class="textTru chosenDropWid" id="104" value='104'>Broker</option>
+
+<option class="textTru chosenDropWid" id="105" value='105'>Business Owner/ Entrepreneur</option>
+
+<option class="textTru chosenDropWid" id="13" value='13'>Businessperson</option>
+
+<option class="textTru chosenDropWid" id="15" value='15'>Fashion Designer</option>
+
+<option class="textTru chosenDropWid" id="72" value='72'>Fitness Professional</option>
+
+<option class="textTru chosenDropWid" id="51" value='51'>Interior Designer</option>
+
+<option class="textTru chosenDropWid" id="106" value='106'>Politician</option>
+
+<option class="textTru chosenDropWid" id="29" value='29'>Security Professional</option>
+
+<option class="textTru chosenDropWid" id="109" value='109'>Singer</option>
+
+<option class="textTru chosenDropWid" id="38" value='38'>Social Services/ NGO/ Volunteer</option>
+
+<option class="textTru chosenDropWid" id="55" value='55'>Sportsperson</option>
+
+<option class="textTru chosenDropWid" id="107" value='107'>Travel Professional</option>
+
+<option class="textTru chosenDropWid" id="108" value='108'>Writer</option>
+
+<option class="textTru chosenDropWid" id="43" value='43'>Others</option>
